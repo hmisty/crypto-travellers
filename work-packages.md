@@ -103,6 +103,17 @@
 - 担任轮值书记员，负责会前收集议题，会上进行会议记录，会后整理到github
 - 会议记录：https://github.com/Jouleverse/open-meetings
 
+#### 群
+
+- 目前担任三个群的群主：
+    - 内测大群
+    - 节点预备群
+    - core群（核心贡献者群）
+
+#### 公众号
+
+- 公众号 JNSDAO 的注册人。但不负责管理和运营
+
 ### ucanfilm节点介绍
 
 - David Lin, 凌杏水
